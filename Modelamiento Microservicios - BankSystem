@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T16:39:42.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="nL92z6O2oMZZFzSwtc8P" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T16:40:14.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="0fhj_ErYEyomJQTJmufe" version="16.6.3" type="github">
   <diagram id="h_3x0GqOGN94FNZYykLU" name="ModelFinalProject">
     <mxGraphModel dx="2332" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -562,7 +562,7 @@
         <mxCell id="337Cz8qrO3n2ZA5ijKwI-25" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-10" y="1472.5" width="40" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="337Cz8qrO3n2ZA5ijKwI-26" value="&lt;font face=&quot;Verdana&quot;&gt;DB Mobile Wallet&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#9AC7BF;strokeColor=#82b366;" vertex="1" parent="337Cz8qrO3n2ZA5ijKwI-25">
+        <mxCell id="337Cz8qrO3n2ZA5ijKwI-26" value="&lt;font face=&quot;Verdana&quot;&gt;DB Virtual Currency&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#9AC7BF;strokeColor=#82b366;" vertex="1" parent="337Cz8qrO3n2ZA5ijKwI-25">
           <mxGeometry width="40" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="337Cz8qrO3n2ZA5ijKwI-27" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb;fontFamily=Verdana;fontSize=13;strokeColor=#97D077;" vertex="1" parent="337Cz8qrO3n2ZA5ijKwI-25">
